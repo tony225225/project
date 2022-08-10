@@ -1,0 +1,51 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    background-image: url(img8.jpg);
+}
+
+.sign-in{
+    text-align: center;
+    background-image: url(img9.jpg);
+    width: 200px;
+    padding:10%;
+    margin: 8% auto 0;
+    padding-top: 20px;
+    
+}
+.sign-in h2{
+    color: aqua;
+    font-family: sans-serif;
+}
+
+.box{
+    border-radius: 20px;
+    padding: 2px;
+    width: 100%;
+    margin: 5% auto 0;
+}
+.sign-in span{
+    color: white;
+}
+.butn{
+    background-color: aqua;
+    border-radius: 20px;
+    width: 50%;
+    padding: 2px;
+    font-size: 15px;
+    border: none;
+    outline: none;
+}
+.nav-links ul li a{
+    text-align: center;
+    color: white;
+    
+}
+.nav-links {
+   text-align: right;
+}
+.nav-links ul li{
+ list-style: none;
+ display: inline-block;
+ margin: 0px 20px;
+}
